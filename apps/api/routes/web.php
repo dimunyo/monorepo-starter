@@ -7,6 +7,8 @@ Route::get('/', function () {
 });
 
 Route::get('/posts', function () {
+    sleep(3);
+
     return response()->json([
         'posts' => [
             ['id' => 1, 'title' => 'Post 1', 'description' => 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.', 'uuid' => 'uuid1'],

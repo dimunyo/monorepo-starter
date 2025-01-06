@@ -1,8 +1,16 @@
 ## Todo List
-- [] Create a Post Module
-  - [] Create a Post Model
-  - [] Create a Post Controller
-  - [] Create a Post Service/Actions
-  - [] Create a Post Endpoint
-  - [] Create a Posts page
-- [] Deploy to Vercel (edited) 
+
+- [x] Monorepo Basic Setup
+  - [ ] Create a Post Module
+  - [x] Create a Post Model 
+  - [x] Create a Factory (f)
+  - [x] Create a Seeder (s)
+  - [x] Create a Migration (m)
+  - [ ] Create a Post Controller (c)
+  - [ ] Create a Post Service/Actions
+  - [ ] Create a Post Endpoint
+  - [ ] Create a Posts page
+- [ ] Deploy to Vercel 
+- [ ] Formatting
+
+- [x] useFetch()

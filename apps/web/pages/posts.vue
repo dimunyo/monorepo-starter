@@ -12,8 +12,8 @@ const columns = [
     accessorKey: 'title',
   },
   {
-    header: 'Description',
-    accessorKey: 'description',
+    header: 'Body',
+    accessorKey: 'body',
   },
 ]
 
